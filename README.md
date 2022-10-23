@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexOrdnas
-- 👀 I’m interested in lerning programming diffrent languegs, but mainly Python, CSS and JavaScript
+- 👀 I’m interested in learning programming in Python, CSS and JavaScript
 - 🌱 I’m currently learning Python as a main, but partly two others as well
-- 💞️ I’m looking to collaborate on nothing for now, but I'll update this when I will ned one
+- 💞️ I’m looking to collaborate on nothing for now, but I'll update this when I will need one
 - 📫 How to reach me Just email me at devfterr@gmail.com 
 - 
 <!---
